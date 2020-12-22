@@ -1,0 +1,20 @@
+{
+  "name": "vue-swipy",
+  "version": "0.1.0",
+  "description": "Vue swipeable component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "src",
+    "index.js",
+    "package.json",
+    "LICENSE"
+  ],
+  "author": "Darko Macesic <darko@shardlabs.io>",
+  "license": "MIT",
+  "dependencies": {
+    "interactjs": "^1.10.1"
+  }
+}
