@@ -2,6 +2,8 @@
 
 Vue swipeable component for Tinder-like apps.
 
+🚀 [See live demo](https://shard-labs.github.io/vue-swipy/)
+
 ## Installation
 
 ```bash
